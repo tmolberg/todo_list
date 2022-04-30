@@ -1,0 +1,14 @@
+{
+  "title": "Todo List",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Todo List",
+        "description": "Do you want to configure the todo list?"
+      }
+    },
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_service%]"
+    }
+  }
+}
